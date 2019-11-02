@@ -1,0 +1,50 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@nidhaan 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+3
+18158faheemzunjani/Coursera-WebDev-JHU-Assignments
+ Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights
+Coursera-WebDev-JHU-Assignments/module-4-solution/index.html
+@faheemzunjani faheemzunjani Personalize index.html
+dfd6a70 on May 25, 2016
+18 lines (17 sloc)  414 Bytes
+  
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Module 4 Solution</title>
+  <script>
+    var names = []; // DO NOT REMOVE
+  </script>
+  <script src="SpeakHello.js"></script>
+  <script src="SpeakGoodBye.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>Faheem's Module 4 Solution</h1>
+  <h3>Inspect the page and checkout the Console in the Developer Tools.</h3>
+</body>
+</html>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
